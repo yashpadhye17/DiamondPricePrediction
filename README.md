@@ -24,28 +24,6 @@ The project has been structured into a pipeline that consists of the following s
 
 6. **Model Deployment**: After successful training and evaluation, the model can be deployed to make real-time predictions on new data.
 
-## Instructions to Run the Pipeline
-
-To run the Diamond Price Prediction project pipeline, follow these steps:
-
-1. Clone the project repository from GitHub: [https://github.com/yashpadhye17/DiamondPricePrediction]
-
-2. Ensure you have the required dependencies and libraries installed. You can use a virtual environment to manage dependencies.
-
-3. Navigate to the project directory and execute the following commands:
-
-```bash
-# Install required libraries (if not already installed)
-pip install -r requirements.txt
-
-# Run the pipeline
-python pipeline.py
-```
-
-4. The pipeline will perform all the necessary steps, including data loading, preprocessing, model training, and evaluation.
-
-5. Once the pipeline is complete, the model's performance metrics and predictions on the test dataset will be displayed.
-
 ## Conclusion
 
 The Diamond Price Prediction project demonstrates the development of a machine learning model to predict diamond prices based on relevant features. The pipeline encapsulates all the necessary steps, making it easy to reproduce and deploy the model in real-world scenarios.
